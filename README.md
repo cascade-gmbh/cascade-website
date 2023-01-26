@@ -1,4 +1,3 @@
 # cascade-website 
-Websitegenerator für www.cascade.de
-
-result is here: https://cascade-gmbh.github.io/cascade-website/
+Websitegenerator für www.cascade.de  
+deplys to: https://cascade-gmbh.github.io/cascade-website/
