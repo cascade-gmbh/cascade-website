@@ -79,7 +79,7 @@ Umsatzsteuer-ID: DE136763471
 
 Amtsgericht Charlottenburg Berlin
 
-Telefon: +49 (0) 30-22 37 49 80
+Telefon: +49 (0) 30 – 22 37 49 80
 
 <details>
     <summary><h3>Haftung</h3></summary>

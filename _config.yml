@@ -29,7 +29,7 @@ url: "https://cascade.de" # the base hostname & protocol for your site, e.g. htt
 
 # Build settings
 # theme: minima
-theme: intro
+theme: biscuit
 plugins:
   # - jekyll-feed
 # Exclude from processing.
