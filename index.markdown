@@ -5,6 +5,11 @@ title: "Cascade Informationssysteme GmbH"
 # layout: home
 ---
 
+<img src="icon64.png"
+     alt="Cascade logo"
+     style="float: right; margin-right: 10px;"
+      />
+
 Seit ihrer Gründung im Jahre 1988 hat sich unsere Firma durch die Entwicklung anspruchsvoller Software für medizinische und technische Anwendungen einen Namen gemacht. Wir haben unsere Leistungsfähigkeit in einer ganzen Reihe von Projekten und Entwicklungen für namhafte Kund:innen unter Beweis gestellt. Einige unserer Programme werden inzwischen weltweit in verschiedenen Sprachen und Betriebssystemen in großer Stückzahl eingesetzt.
 
 <br>
