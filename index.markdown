@@ -5,8 +5,6 @@ title: "Cascade Informationssysteme GmbH"
 # layout: home
 ---
 
-# Cascade Informationssysteme GmbH
-
 Seit ihrer Gründung im Jahre 1988 hat sich unsere Firma durch die Entwicklung anspruchsvoller Software für medizinische und technische Anwendungen einen Namen gemacht. Wir haben unsere Leistungsfähigkeit in einer ganzen Reihe von Projekten und Entwicklungen für namhafte Kund:innen unter Beweis gestellt. Einige unserer Programme werden inzwischen weltweit in verschiedenen Sprachen und Betriebssystemen in großer Stückzahl eingesetzt.
 
 <br>
@@ -82,22 +80,22 @@ Amtsgericht Charlottenburg Berlin
 Telefon: +49 (0) 30 – 22 37 49 80
 
 <details>
-    <summary><h3>Haftung</h3></summary>
+    <summary><h4>Haftung</h4></summary>
     Unsere Webseite enthält Links zu anderen Webseiten, für deren Inhalt wir nicht verantwortlich sind. Haftung für verlinkte Websites besteht für uns nicht, da wir keine Kenntnis rechtswidriger Tätigkeiten hatten und haben, uns solche Rechtswidrigkeiten auch bisher nicht aufgefallen sind und wir Links sofort entfernen werden, sollten uns Rechtswidrigkeiten bekannt werden. Wenn Ihnen rechtswidrige Links auf unserer Website auffallen, bitten wir Sie, uns zu kontaktieren.
 </details>
 
 <details>
-    <summary><h3>Urheberrechtshinweis</h3></summary>
+    <summary><h4>Urheberrechtshinweis</h4></summary>
     Die von uns erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheber:innenrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheber:innenrechts bedürfen der schriftlichen Zustimmung von uns. Downloads und Kopien dieser Seite sind nur für den privaten, nicht-kommerziellen Gebrauch gestattet. Falls notwendig, werden wir die unerlaubte Nutzung von Teilen der Inhalte unserer Seite rechtlich verfolgen. Sollten Sie auf dieser Webseite Inhalte finden, die das Urheber:innenrecht verletzen, bitten wir Sie, uns zu kontaktieren.
 </details>
 
 <details>
-    <summary><h3>Bildernachweis</h3></summary>
+    <summary><h4>Bildernachweis</h4></summary>
     Die Fotos auf dieser Webseite sind urheberrechtlich geschützt. Die Bilderrechte liegen bei uns oder den Fotograf:innen, die hier aufgeführt werden.
 </details>
 
 <details>
-    <summary><h3>Datenschutz</h3></summary>
+    <summary><h4>Datenschutz</h4></summary>
     Die Nutzung unserer Webseite ist ohne Angabe personenbezogener Daten möglich. Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich. Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten durch Dritte zur Übersendung von nicht ausdrücklich angeforderter Werbung und Informationsmaterialien wird hiermit ausdrücklich widersprochen. Wir behalten uns ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von Werbeinformationen durch beispielsweise Spam-E-Mails vor.
 </details>
 
